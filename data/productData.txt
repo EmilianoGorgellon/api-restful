@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "title 1",
+    "price": 10000,
+    "url": "https://static-geektopia.com/storage/t/i/461/46150/1547fcbd1e4d383a350d9362e.webp"
+  },
+  {
+    "id": 2,
+    "title": "title 2",
+    "price": 15000,
+    "url": "https://static-geektopia.com/storage/t/i/461/46150/1547fcbd1e4d383a350d9362e.webp"
+  },
+  {
+    "id": 3,
+    "title": "title 3",
+    "price": 20000,
+    "url": "https://static-geektopia.com/storage/t/i/461/46150/1547fcbd1e4d383a350d9362e.webp"
+  },
+  {
+    "id": 4,
+    "title": "title 4",
+    "price": 25000,
+    "url": "https://static-geektopia.com/storage/t/i/461/46150/1547fcbd1e4d383a350d9362e.webp"
+  }
+]
